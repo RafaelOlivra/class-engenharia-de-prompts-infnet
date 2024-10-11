@@ -15,6 +15,7 @@ Caddyfile
 credentials.json
 .run.*
 .~lock.*
+class-repo
 
 # Compiled Python bytecode
 *.py[cod]

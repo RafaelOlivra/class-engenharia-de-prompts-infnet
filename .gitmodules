@@ -1,0 +1,4 @@
+[submodule "class-repo"]
+	path = class-repo
+	url = https://github.com/tciodaro/eng_prompt.git
+	branch = master
