@@ -17,6 +17,8 @@ credentials.json
 class-repo
 /data/machado
 /data/Brazilian_Portugese_Corpus
+/data/bertimbau*
+/data/guideToDocuments.csv
 
 # Compiled Python bytecode
 *.py[cod]
