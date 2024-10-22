@@ -15,6 +15,7 @@ credentials.json
 .run.*
 .~lock.*
 class-repo
+/data/guideToDocuments.csv
 /data/machado
 /data/Brazilian_Portugese_Corpus
 /data/bertimbau*
