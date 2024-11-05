@@ -13,3 +13,11 @@ gensim==4.3.3
 matplotlib==3.9.2
 unidecode
 google-generativeai
+torch
+torchvision
+torchaudio
+wheel
+nvidia-cuda-runtime-cu12
+--index-url https://download.pytorch.org/whl/cu118
+matplotlib
+scikit-learn
