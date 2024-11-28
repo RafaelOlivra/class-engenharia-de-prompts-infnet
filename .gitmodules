@@ -2,3 +2,7 @@
 	path = class-repo
 	url = https://github.com/tciodaro/eng_prompt.git
 	branch = master
+[submodule "class-ai-thesimpsons"]
+	path = class-ai-thesimpsons
+	url = https://github.com/tciodaro/ai_thesimpsons
+	branch = master
